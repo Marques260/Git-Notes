@@ -29,12 +29,14 @@ git branch (+nome da branch) - Cria nova branch (linha do tempo/ ramificação).
 
 git checkout (+nome da branch) - Troca para a branch mencionada.
 
-(use "git restore --staged <file>..." to unstage)
+git restore --staged (+nome do arquivo) - Remove o arquivo da área de staged, para não ir para o commit.
 
-cd / - Vai até a pasta raiz do PC.
-dir - Mostra arquivos dentro da pasta.
-mkdir - Cria diretório (pasta).
-touch - Cria arquivo dentro da pasta.
+git branch -D (+nome da branch) - Deleta branch mencionada.
+
+cd / - Vai até a pasta raiz do PC.//
+dir - Mostra arquivos dentro da pasta.//
+mkdir - Cria diretório (pasta).//
+touch - Cria arquivo dentro da pasta.//
 
 
 
