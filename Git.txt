@@ -19,7 +19,7 @@ git add (git add --all) - Adicionar novo arquivo ou modificações ao repositór
 
 git status - Mostra o status atual da área de staging e dos commits preparados.
 
-git commit - Cria um "pacote"/commit para ser enviado ao repositório GitHub.
+git commit -m "mensagem" - Cria um "pacote"/commit para ser enviado ao repositório GitHub.
 
 git log - Mostra as alterações e commits feitos no repositório.
 
