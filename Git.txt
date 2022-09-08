@@ -38,11 +38,7 @@ dir - Mostra arquivos dentro da pasta.//
 mkdir - Cria diretório (pasta).//
 touch - Cria arquivo dentro da pasta.//
 
+git remote add origin (+link do repositório GitHub) - Vincula repositório local com repositório na Nuvem do GitHub.
 
-
-
-
-
-
-
-
+git branch -M main
+git push -u origin main - Envia o projeto para o GitHub.
