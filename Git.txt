@@ -25,6 +25,18 @@ git log - Mostra as alterações e commits feitos no repositório.
 
 git show (+número do commit) - Mostra detalhadamente as alterações realizadas no commit.
 
+git branch (+nome da branch) - Cria nova branch (linha do tempo/ ramificação). Um "git branch", nos mostra uma lista das branchs ativas.
+
+git checkout (+nome da branch) - Troca para a branch mencionada.
+
+(use "git restore --staged <file>..." to unstage)
+
+cd / - Vai até a pasta raiz do PC.
+dir - Mostra arquivos dentro da pasta.
+mkdir - Cria diretório (pasta).
+touch - Cria arquivo dentro da pasta.
+
+
 
 
 
