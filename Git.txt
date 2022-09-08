@@ -9,3 +9,24 @@ git config --global user.email "example@bol.com"
 4. Dê um git config --list para exibir suas configurações. Ou você pode digitar git config user.name, ou git config user.email.
 
 Pronto, o Git está instalado e configurado.
+
+
+Comandos Práticos:
+
+git init  - Iniciar repositório git na pasta em questão.
+
+git add (git add --all) - Adicionar novo arquivo ou modificações ao repositório (vai pra área de staging do GIT).
+
+git status - Mostra o status atual da área de staging e dos commits preparados.
+
+git commit - Cria um "pacote"/commit para ser enviado ao repositório GitHub.
+
+git log - Mostra as alterações e commits feitos no repositório.
+
+
+
+
+
+
+
+
