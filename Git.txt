@@ -23,6 +23,8 @@ git commit - Cria um "pacote"/commit para ser enviado ao repositório GitHub.
 
 git log - Mostra as alterações e commits feitos no repositório.
 
+git show (+número do commit) - Mostra detalhadamente as alterações realizadas no commit.
+
 
 
 
