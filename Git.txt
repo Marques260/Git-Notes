@@ -1,0 +1,11 @@
+1. Instalar o Git no PC.
+
+2. Checar no CMD se o git está instalado, digitando o comando "git". Se estiver instalado irá retornar alguns comandos disponíveis do git.
+
+3. Configurar seu usuário e e-mail padrão:
+git config --global user.name "Marques260"
+git config --global user.email "example@bol.com"
+
+4. Dê um git config --list para exibir suas configurações. Ou você pode digitar git config user.name, ou git config user.email.
+
+Pronto, o Git está instalado e configurado.
