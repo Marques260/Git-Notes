@@ -21,6 +21,8 @@ git status - Mostra o status atual da área de staging e dos commits preparados.
 
 git commit -m "mensagem" - Cria um "pacote"/commit para ser enviado ao repositório GitHub.
 
+git commit -am "mensagem" - Adiciona e comita de uma vez só.
+
 git log - Mostra as alterações e commits feitos no repositório.
 
 git show (+número do commit) - Mostra detalhadamente as alterações realizadas no commit.
@@ -28,6 +30,8 @@ git show (+número do commit) - Mostra detalhadamente as alterações realizadas
 git branch (+nome da branch) - Cria nova branch (linha do tempo/ ramificação). Um "git branch", nos mostra uma lista das branchs ativas.
 
 git checkout (+nome da branch) - Troca para a branch mencionada.
+
+git checkout -b (+nome da branch) - Cria uma branch e já muda para ela.
 
 git restore --staged (+nome do arquivo) - Remove o arquivo da área de staged, para não ir para o commit.
 
@@ -40,5 +44,10 @@ touch - Cria arquivo dentro da pasta.//
 
 git remote add origin (+link do repositório GitHub) - Vincula repositório local com repositório na Nuvem do GitHub.
 
-git branch -M main
+git branch -M main - Muda o nome da branch principal para "main".
+
 git push -u origin main - Envia o projeto para o GitHub.
+
+git clone (+link do repositório) - Clonar um repositório na nuvem para a sua máquina.
+
+git pull - Puxa atualizações que estão no repositório da nuvem.
