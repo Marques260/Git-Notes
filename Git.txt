@@ -42,11 +42,11 @@ dir - Mostra arquivos dentro da pasta.//
 mkdir - Cria diretório (pasta).//
 touch - Cria arquivo dentro da pasta.//
 
-git remote add origin (+link do repositório GitHub) - Vincula repositório local com repositório na Nuvem do GitHub.
+git remote add origin (+link do repositório GitHub com SSH ou HTTPS) - Vincula repositório local com repositório na Nuvem do GitHub.
+
+git push -u origin main - Envia o projeto para o GitHub, "main" é o nome da branch, se sua branch for master, escreva master.
 
 git branch -M main - Muda o nome da branch principal para "main".
-
-git push -u origin main - Envia o projeto para o GitHub.
 
 git clone (+link do repositório) - Clonar um repositório na nuvem para a sua máquina.
 
