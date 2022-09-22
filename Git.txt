@@ -23,6 +23,8 @@ git commit -m "mensagem" - Cria um "pacote"/commit para ser enviado ao repositó
 
 git commit -am "mensagem" - Adiciona e comita de uma vez só.
 
+git commit --amend - Alterar a mensagem do último commit feito. Um editor abrirá, basta mudar e salvar o arquivo. No próximo push já vai subir o nome que alterou.
+
 git log - Mostra as alterações e commits feitos no repositório.
 
 git show (+número do commit) - Mostra detalhadamente as alterações realizadas no commit.
