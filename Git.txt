@@ -6,6 +6,8 @@
 git config --global user.name "Marques260"
 git config --global user.email "example@bol.com"
 
+Se não configurar, subirá uma janela de login do GitHub.
+
 4. Dê um git config --list para exibir suas configurações. Ou você pode digitar git config user.name, ou git config user.email.
 
 Pronto, o Git está instalado e configurado.
